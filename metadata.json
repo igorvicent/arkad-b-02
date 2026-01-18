@@ -1,0 +1,5 @@
+{
+  "name": "ConstructManager",
+  "description": "A robust mobile construction management application featuring budget creation, schedule tracking, daily reports, supply management, and financial dashboards.",
+  "requestFramePermissions": []
+}
